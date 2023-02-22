@@ -1,2 +1,2 @@
 # Dashboard-Company-Automation
- Automation of a CS team metrics dashboard update process
+ Automation of the process to update a dashboard of metrics for the customer success team.
